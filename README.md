@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/thiago-neves/single-price-grid)
+- Live Site URL: [Click here](https://thiago-neves.github.io/single-price-grid)
 
 ### Built with
 
